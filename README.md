@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **Utkucvl/Utkucvl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -10,4 +10,4 @@ Here are some ideas to get you started:
 - 👯 Tech that I use : Javascript,Html5,CSS,Java,Angular,React,Vue,Spring
 - 📫 How to reach me: utku.cuval0507@gmail.com
 - 🔎 Linkedin account : Utku Çuval
--->
+
